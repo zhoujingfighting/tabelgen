@@ -1,0 +1,7 @@
+h1 {
+    text-align: center;
+}
+
+.highlight {
+    @apply color-red-600;
+}
